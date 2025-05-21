@@ -11,15 +11,15 @@
 
 &emsp;Link para o protótipo no Figma: [Protótipo Figma](https://www.figma.com/design/xLPX15i40jijzkBAkJtJA6/Pondera-Ux--Larissa-e-Tain%C3%A1?node-id=6-3&t=rsymjRsKu8OuaEPD-1)
 
-<div style="text-align: center;">
-    <img src="assets/img_component.png" alt="Protótipo Figma" width="600">
-    <p>Protótipo do componente no Figma</p>
-</div>
+<p align="center">
+    <img src="assets/img_component.png" alt="Protótipo Figma" width="600"><br>
+    Protótipo do componente no Figma
+</p>
 
-<div style="text-align: center;">
-    <img src="assets/img_component_props.png" alt="Propriedades do componente no Figma" width="80%">
-    <p>Propriedades do componente no Figma</p>
-</div>
+<p align="center">
+    <img src="assets/img_component_props.png" alt="Propriedades do componente no Figma" width="80%"><br>
+    Propriedades do componente no Figma
+</p>
 &emsp;Este componente foi projetado para ser utilizado em um aplicativo de investimentos, apresentando informações relevantes como o perfil do investidor, o valor investido e o nome da pessoa. O design prioriza a clareza e a organização dos dados, facilitando a visualização e a interação do usuário com as informações financeiras.
 
 &emsp;Além disso, foram criadas variações do componente para diferentes cenários de uso, tornando-o mais flexível e reutilizável. Também foram utilizadas variáveis no Figma para facilitar a componentização e permitir ajustes rápidos nas propriedades do componente, promovendo maior eficiência no desenvolvimento e manutenção.
@@ -38,10 +38,11 @@
 ## Uso do Dev Mode
 &emsp;O Dev Mode foi utilizado para inspecionar medidas, coletar estilos e gerar o código base do componente. Isso garantiu que a implementação fosse fiel ao layout projetado, minimizando a necessidade de ajustes manuais.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="assets/img_dev_mode.png" alt="dev_mode" width="80%">
-    <p>Dev Mode no Figma</p>
-</div>
+    <br>
+    Dev Mode no Figma
+</p>
 
 ## Codificação Fiel ao Layout
 
@@ -82,10 +83,11 @@
 
 &emsp;A imagem abaixo apresenta o resultado final da implementação do componente em HTML/CSS, demonstrando como o layout projetado no Figma foi fielmente reproduzido na interface web.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="assets/img_componente_dev.png" alt="Componente implementado" width="400">
-    <p>Visualização do componente implementado em HTML/CSS</p>
-</div>
+    <br>
+    Visualização do componente implementado em HTML/CSS
+</p>
 
 # Conclusão
 
