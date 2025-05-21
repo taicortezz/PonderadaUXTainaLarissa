@@ -28,10 +28,10 @@
 
 &emsp; As camadas e estilos foram organizados de forma a facilitar a navegação e a compreensão do design. Todos os layers estão nomeados corretamente, seguindo uma nomenclatura clara e intuitiva. Além disso, foram utilizados estilos salvos para garantir a consistência visual em todo o componente.
 
-<div style="text-align: center;">
-    <img src="assets/img_styles_color.png" alt="styles" width="600">
-    <p>Estilos salvos no Figma</p>
-</div>
+<p align="center">
+    <img src="assets/img_styles_color.png" alt="styles" width="600"><br>
+    Estilos salvos no Figma
+</p>
 
 &emsp;Foram criados estilos para as cores, para que o Figma esteja sempre atualizado com as cores do projeto.
 
